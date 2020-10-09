@@ -1,0 +1,22 @@
+h1 {
+    color: rgb(92, 71, 53);
+    font-size: 50px;
+    background-color: seashell;
+    text-align: center;
+    font-family: fantasy;
+    width: 400px;
+    border-bottom: 2px solid pink;
+    border-right: 2px solid pink;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+img {
+    width: 450px;
+    height: 300px;
+    margin: 5px;
+}
